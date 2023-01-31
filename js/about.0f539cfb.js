@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkproject"]=self["webpackChunkproject"]||[]).push([[443],{743:function(e,t,n){n.r(t),n.d(t,{default:function(){return m}});var s=n(3396);const o={class:"about"},c=(0,s._)("h1",{class:"title"},"Completed Items",-1),p=(0,s._)("div",{class:"space"},null,-1);function r(e,t,n,r,u,a){const i=(0,s.up)("ListComponent");return(0,s.wg)(),(0,s.iD)("div",o,[c,p,(0,s.Wm)(i,{completedList:!0})])}var u=n(718),a={name:"CompletedView",components:{ListComponent:u.Z}},i=n(89);const l=(0,i.Z)(a,[["render",r]]);var m=l}}]);
+//# sourceMappingURL=about.0f539cfb.js.map
