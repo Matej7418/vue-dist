@@ -1,2 +1,0 @@
-"use strict";(self["webpackChunkproject"]=self["webpackChunkproject"]||[]).push([[443],{7361:function(t,e,n){n.r(e),n.d(e,{default:function(){return a}});var o=n(3396);const c={class:"about"};function s(t,e,n,s,r,u){const p=(0,o.up)("ListComponent");return(0,o.wg)(),(0,o.iD)("div",c,[(0,o.Wm)(p,{completedList:!0})])}var r=n(788),u={name:"CompletedView",components:{ListComponent:r.Z}},p=n(89);const i=(0,p.Z)(u,[["render",s]]);var a=i}}]);
-//# sourceMappingURL=about.55d9283c.js.map
